@@ -390,6 +390,7 @@ footer {
   .second-section {
     max-width: 580px;
     padding: 0 8px;
+    margin: 0 auto 120px;
   }
   .scnd-sec-content {
     flex-direction: column-reverse;
