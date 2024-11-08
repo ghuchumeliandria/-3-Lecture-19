@@ -134,7 +134,7 @@ C
   max-width: 1110px;
   width: 100%;
   height: auto;
-  margin: 0 auto 120px ;
+  margin: 120px auto  ;
   display: flex;
   flex-direction: column;
   gap: 30px;
