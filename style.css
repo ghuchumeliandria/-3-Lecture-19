@@ -112,8 +112,13 @@ C
   transition: 0.5s;
   cursor: pointer;
 }
-.location-btn:hover {
-  background-color: #d5966c;
+.location-box a:hover {
+  .location-btn{
+    background-color: #d5966c;
+  }
+  .arrow-btn{
+    background-color: #151515;
+  }
 }
 .arrow-btn {
   width: 56px;
